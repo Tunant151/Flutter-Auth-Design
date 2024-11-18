@@ -37,7 +37,7 @@ class SplashScreenState extends State<SplashScreen> {
           children: [
             // App Logo
             const Icon(
-              Icons.lock, // Replace this with your app logo/icon
+              Icons.lock,
               size: 100,
               color: Colors.redAccent,
             ),
