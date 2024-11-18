@@ -54,7 +54,7 @@ A flutter design for login, sign up and forget password. Made by Tunant
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/Tunant151/Flutter-Auth-Design.git
 cd auth_ui
 flutter pub get
 flutter run
