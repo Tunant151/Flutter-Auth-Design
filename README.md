@@ -15,7 +15,16 @@ A flutter design for login, sign up and forget password. Made by Tunant
 - Sign Up Screen
 - Forgot password screen
 
-### Screenshots
+## Actual Screenshots on Mobile
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="assets/screenshots/mobile/splash.jpg" alt="Splash Screen" width="200">
+  <img src="assets/screenshots/mobile/login.jpg" alt="Login Screen" width="200">
+  <img src="assets/screenshots/mobile/signup.jpg" alt="Signup Screen" width="200">
+  <img src="assets/screenshots/mobile/forget.jpg" alt="Forget Password Screen" width="200">
+</div>
+
+### Screenshots on PC and emulator
 
 ![App Screenshot](assets/screenshots/cover1.png)
 
@@ -34,15 +43,6 @@ A flutter design for login, sign up and forget password. Made by Tunant
 ### Forget Password Screen
 
 ![Forget Password Screen](assets/screenshots/forget.png)
-
-## Actual Screenshots on Mobile
-
-<div style="display: flex; justify-content: space-around;">
-  <img src="assets/screenshots/mobile/splash.jpg" alt="Splash Screen" width="200">
-  <img src="assets/screenshots/mobile/login.jpg" alt="Login Screen" width="200">
-  <img src="assets/screenshots/mobile/signup.jpg" alt="Signup Screen" width="200">
-  <img src="assets/screenshots/mobile/forget.jpg" alt="Forget Password Screen" width="200">
-</div>
 
 ## Getting Started
 
